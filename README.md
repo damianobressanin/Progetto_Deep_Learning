@@ -3,3 +3,6 @@ Confronto tra diverse architetture di Reti Neurali Convoluzionali (CNN) per la c
 Ho progettato nel dettaglio alcune CNN, ho utilizzato Transfer Learning e Fine Tuning con diverse reti preaddestrate e ho confrontato i risultati ottenuti.
 
 Ho utilizzato il dataset Kaggle "Dogs vs. Cats".
+
+
+La presentazione del progetto contiene già il codice all'interno delle slide, quindi mi limito a caricare qui solo i test più significativi.
