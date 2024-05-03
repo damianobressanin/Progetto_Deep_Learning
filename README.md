@@ -6,3 +6,5 @@ Ho utilizzato il dataset Kaggle "Dogs vs. Cats".
 
 
 La presentazione del progetto contiene già il codice all'interno delle slide, quindi mi limito a caricare qui solo i test più significativi.
+
+Link alla presentazione (presente su questo repository): https://github.com/damianobressanin/Progetto_Deep_Learning/blob/main/Presentazione_progetto_DeepLearning.pdf
